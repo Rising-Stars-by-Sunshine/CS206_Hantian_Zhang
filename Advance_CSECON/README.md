@@ -64,7 +64,7 @@ The federated learning scenarios discussed in the paper remain pertinent and tim
 Incorporating the concept of bounded rationality in both human participants and AI agents within the context of the paper's findings could yield significant implications on the outcomes. ChatGPT's responses demonstrate that AI agents' decisions to participate can be influenced by rational considerations similar to human participants. If human participants and AI agents exhibit biases like loss aversion, their reluctance to participate may significantly impact the effectiveness of incentive mechanisms and the overall performance of federated learning systems. The mini-experiment highlights the necessity of conducting behavioral analyses to understand the decision-making processes of both human participants and AI agents in federated learning environments. Integrating insights from AI agents' decision-making into the paper's analysis could provide a more comprehensive understanding of the dynamics and challenges inherent in incentivizing participation in federated learning systems.
 
 ![Image1](m2_q3_1.png)
-![Image1](m2_q1_2.png)
+![Image1](m2_q3_2.png)
 
 ### Bibliographies
 
