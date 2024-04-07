@@ -2,13 +2,14 @@
 
 Inspired by the insights of Richard Thaler in behavioral economics with the groundbreaking work of Yoshua Bengio in artificial neural networks and deep learning, I would like to achieve a better interaction between human and AI technologies. Richard Thaler is one of my favorite Nobel laureates whose pioneering work in behavioral economics has shed light on the cognitive biases and irrational decision-making processes that underpin economic behavior ([Thaler 2017](https://www.nobelprize.org/prizes/economic-sciences/2017/thaler/facts)). By integrating his insights into AI systems, it is possible to create algorithms that not only process data efficiently but also understand and adapt to human behaviors, preferences, and biases. In addition, Turing Award recipient Yoshua Bengio’s contributions to deep learning have revolutionized the field of AI by enabling machines to learn complex patterns from data ([Haigh 2018](https://amturing.acm.org/award_winners/bengio_3406375.cfm)). By combining Thaler’s understanding of human behavior with Bengio's advancements in deep learning and neural networks, I obtained the inspiration to develop AI solutions that are not only technically sophisticated but also genuinely useful and user-friendly. This could involve creating intelligent systems that adapt to individual preferences and provide personalized recommendations or assistance in various domains. It is worth noting that this vision will require interdisciplinary collaboration, ethical foresight, and a commitment to responsible innovation.
 
-![mindmap1](images/m1_q1.png)
+![mindmap1](CSEcon1/m1_q1.png)
+
 
 ### Question 2: CS&Econ for a Better Future: How do you perceive the synergy between computer science and economics as a catalyst for steering innovation toward a brighter future? Please present a foundational assertion, followed by multiple specific instances that support your claim, including a reference to a topic discussed at the colloquium on Friday, March 22.
 
 Positioned as a catalyst for propelling innovation towards a more promising tomorrow, the synergy of computer science and economics serves as a driving force across diverse sectors, notably within financial markets and decentralized finance. Through the utilization of computational methodologies such as machine learning, blockchain technology, and predictive analytics, individuals are empowered to unlock novel avenues for optimizing economic frameworks, refining decision-making processes, and ultimately shaping a brighter societal future. The BSIM card, introduced by Conflux Network, stands as a poignant testament to the amalgamation of computational techniques within blockchain technology, symbolizing the transformative capacity of interdisciplinary collaboration in fostering economic advancement and societal progress. As articulated by Ming Wu, the Chief Technology Officer of Conflux Network, the development of the BSIM card addresses the complexity associated with traditional blockchain authentication methods, offering users a simplified solution through the integration of phone numbers and authentication codes. This innovation enables users to seamlessly access a multitude of blockchain-based functionalities, heralding a more accessible and user-friendly approach to blockchain technology adoption. In essence, the synergy of computer science and economics promotes promising innovation for our society.
 
-![mindmap2](images/m1_q2.png)
+![mindmap2](CSEcon1/m1_q2.png)
 
 ### Question 3: Beyond CS & Econ: How are aspects of human nature, like bounded rationality, and pioneering technologies, such as generative AI, reshaping the dynamics between humans and AI agents in strategic contexts? Additionally, how might this interplay be perceived and conceptualized distinctively from current models? Address this inquiry by drawing upon the literature covered in our lectures and supplementary scholarly works, ensuring to include in-text citations and a comprehensive bibliography.
 
@@ -18,7 +19,7 @@ Chen et al.'s ([2023](https://doi.org/10.1073/pnas.2316205120)) investigation un
 
 In contrast, Zhou et al. ([2024](https://doi.org/10.48550/arXiv.2402.12713)) propose focused training and structured input methods as means to enhance LLM effectiveness. Despite the need for cautious consideration, the potential to leverage AI capabilities for more efficient strategic adaptation and decision-making processes remains promising. Future advancements in AI hold the promise of unlocking greater potential in strategic contexts, provided careful attention is given to refining and optimizing AI models.
 
-![mindmap3](images/m1_q3.png)
+![mindmap3](CSEcon1/m1_q3.png)
 
 
 ### Bibliographies
