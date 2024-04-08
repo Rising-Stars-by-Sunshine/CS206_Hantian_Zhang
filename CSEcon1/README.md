@@ -28,3 +28,6 @@ In contrast, Zhou et al. ([2024](https://doi.org/10.48550/arXiv.2402.12713)) pro
 - Haigh, Thomas . 2018. “Yoshua Bengio - A.M. Turing Award Laureate.” Amturing.acm.org. 2018. [Link](https://amturing.acm.org/award_winners/bengio_3406375.cfm).
 - Thaler, Richard. 2017. “The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel 2017.” NobelPrize.org. 2017. [Link](https://www.nobelprize.org/prizes/economic-sciences/2017/thaler/facts/).
 - Zhou, Yuhang, Yuchen Ni, Xiang Liu, Jian Zhang, Sen Liu, Guangnan Ye, and Hongfeng Chai. 2024. “Are Large Language Models Rational Investors?” ArXiv.org. February 19, 2024. [DOI: 10.48550/arXiv.2402.12713](https://doi.org/10.48550/arXiv.2402.12713).
+
+![image](g1.png)
+![image](t1.png)
