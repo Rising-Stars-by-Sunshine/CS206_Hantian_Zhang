@@ -15,5 +15,5 @@ In this repository, you will find the following:
 
 - [README.md](README.md): introduction of the GitHub Repository as the Answers to Problem Set 1
 - [CSEcon1](CSEcon1/README.md): A polished version of the Reflection on Milestone 1
-- [Advance_CSEcon](Advance_CSEcon/README.md): A polished version of the Reflection on Milestone 2
+- [Advance_CSEcon](Advance_CSECON/README.md): A polished version of the Reflection on Milestone 2
 
