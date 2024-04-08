@@ -65,6 +65,7 @@ Incorporating the concept of bounded rationality in both human participants and 
 
 ![Image1](m2_q3_1.png)
 ![Image1](m2_q3_2.png)
+![Image1](m2_q3_3.png)
 
 ### Bibliographies
 
