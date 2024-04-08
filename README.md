@@ -14,6 +14,6 @@ Welcome to the GitHub repository for Problem Set 1 of COMSCI/ECON206 Computation
 In this repository, you will find the following:
 
 - [README.md](README.md): introduction of the GitHub Repository as the Answers to Problem Set 1
-- [CSEcon](CSEcon/README.md): A polished version of the Reflection on Milestone 1
+- [CSEcon1](CSEcon1/README.md): A polished version of the Reflection on Milestone 1
 - [Advance_CSEcon](Advance_CSEcon/README.md): A polished version of the Reflection on Milestone 2
 
