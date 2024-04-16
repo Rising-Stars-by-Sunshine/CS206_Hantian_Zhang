@@ -15,7 +15,7 @@ Another issue arises from the cumbersome integration of external libraries or ad
 Lastly, oTree's complexity in implementing dynamic games poses significant hurdles for researchers, particularly those lacking advanced programming skills (Chen, Schonger, and Wickens 2016). To address this, a proposed solution focuses on offering intuitive tools for game customization, simplifying the process of adjusting payoffs, strategies, and game mechanics. By streamlining these aspects, researchers can devote more attention to experimental design and hypothesis testing, thereby enhancing accessibility and efficiency in experimental setup.
 
 ![Image](m2_q1_3.png)
-Figure 3. Mindmap of Question1
+**Figure 3. Mindmap of Question1**
 
 ### Question 2: Beyond Computer Science and Economics Methodology 2 Multi-agent Reinforcement Learning: Advancing Multi-Agent Reinforcement Learning
 
@@ -26,6 +26,7 @@ In deploying a MARL agent for the Prisoner's Dilemma, the following components a
 Based on my personal experience, deploying the Prisoner's Dilemma game using existing MARL frameworks highlighted the challenges of effectively representing the complexities of human decision-making and strategic interactions. The oversimplified state representations and reward structures often led to suboptimal performance and limited the realism of simulated interactions. Therefore, it underscored the importance of addressing the current limitations of MARL frameworks to enhance their applicability and effectiveness in modeling real-world scenarios. To address the limitation, a possible solution is to enhance the environment modeling. By considering factors such as repeated interactions, uncertainty, and information asymmetry, it is likely to develop MARL frameworks capable of representing the intricate dynamics of the Prisoner’s Dilemma more accurately. This involves incorporating more sophisticated state representations and reward structures to capture the complexities of real-world interactions. 
 
 ![Image1](m2_q2.png)
+**Figure 4. Mindmap of Question2**
 
 ### Question 3: Brainstorm your research idea by criticizing existing research: Critiquing and Expanding upon Existing Research
 
@@ -70,8 +71,11 @@ The federated learning scenarios discussed in the paper remain pertinent and tim
 Incorporating the concept of bounded rationality in both human participants and AI agents within the context of the paper's findings could yield significant implications on the outcomes. ChatGPT's responses demonstrate that AI agents' decisions to participate can be influenced by rational considerations similar to human participants. If human participants and AI agents exhibit biases like loss aversion, their reluctance to participate may significantly impact the effectiveness of incentive mechanisms and the overall performance of federated learning systems. The mini-experiment highlights the necessity of conducting behavioral analyses to understand the decision-making processes of both human participants and AI agents in federated learning environments. Integrating insights from AI agents' decision-making into the paper's analysis could provide a more comprehensive understanding of the dynamics and challenges inherent in incentivizing participation in federated learning systems.
 
 ![Image1](m2_q3_1.png)
+**Figure 5. Screenshot of ChatGPT's response 1**
 ![Image1](m2_q3_2.png)
+**Figure 6. Screenshot of ChatGPT's response 2**
 ![Image1](m2_q3_3.png)
+**Figure 7. Mindmap of Question1**
 
 ### Bibliographies
 
