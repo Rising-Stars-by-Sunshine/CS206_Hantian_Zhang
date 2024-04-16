@@ -10,6 +10,7 @@ Figure 1. Mindmap of Question1
 Positioned as a catalyst for propelling innovation towards a more promising tomorrow, the synergy of computer science and economics serves as a driving force across diverse sectors, notably within financial markets and decentralized finance. Through the utilization of computational methodologies such as machine learning, blockchain technology, and predictive analytics, individuals are empowered to unlock novel avenues for optimizing economic frameworks, refining decision-making processes, and ultimately shaping a brighter societal future. The BSIM card, introduced by Conflux Network, stands as a poignant testament to the amalgamation of computational techniques within blockchain technology, symbolizing the transformative capacity of interdisciplinary collaboration in fostering economic advancement and societal progress. As articulated by Ming Wu, the Chief Technology Officer of Conflux Network, the development of the BSIM card addresses the complexity associated with traditional blockchain authentication methods, offering users a simplified solution through the integration of phone numbers and authentication codes. This innovation enables users to seamlessly access a multitude of blockchain-based functionalities, heralding a more accessible and user-friendly approach to blockchain technology adoption. In essence, the synergy of computer science and economics promotes promising innovation for our society.
 
 ![mindmap2](m1_q2.png)
+Figure 2. Mindmap of Question2
 
 ### Question 3: Beyond CS & Econ: How are aspects of human nature, like bounded rationality, and pioneering technologies, such as generative AI, reshaping the dynamics between humans and AI agents in strategic contexts? Additionally, how might this interplay be perceived and conceptualized distinctively from current models? Address this inquiry by drawing upon the literature covered in our lectures and supplementary scholarly works, ensuring to include in-text citations and a comprehensive bibliography.
 
@@ -20,7 +21,7 @@ Chen et al.'s ([2023](https://doi.org/10.1073/pnas.2316205120)) investigation un
 In contrast, Zhou et al. ([2024](https://doi.org/10.48550/arXiv.2402.12713)) propose focused training and structured input methods as means to enhance LLM effectiveness. Despite the need for cautious consideration, the potential to leverage AI capabilities for more efficient strategic adaptation and decision-making processes remains promising. Future advancements in AI hold the promise of unlocking greater potential in strategic contexts, provided careful attention is given to refining and optimizing AI models.
 
 ![mindmap3](m1_q3.png)
-
+Figure 3. Mindmap of Question3
 
 ### Bibliographies
 
