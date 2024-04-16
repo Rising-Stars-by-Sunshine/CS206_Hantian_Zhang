@@ -3,10 +3,10 @@
 Analyze your experience with oTree, identifying pain points in behavioral game theory research. Review related literature and class discussions to understand experimental economics' goals. Propose a software solution that outperforms oTree in at least three aspects, enhancing strategic interaction studies. Highlight why these advancements are crucial. Submit a concise essay question answer (500 words max) with your analysis and proposals, backed by literature and class insights. Your innovative ideas can significantly contribute to experimental economics, addressing current limitations and paving the way for advanced research methodologies. 
 
 ![Image1](m2_q1_1.png)
-Figure 1. The Process of the Trust Game via oTree
-⬤ Figure 1. The Process of the Trust Game via oTree ⬤
+**Figure 1. The Process of the Trust Game via oTree**
+
 ![Image1](m2_q1_2.png)
-'Figure 2. The Result of the Trust Game via oTree'
+**Figure 2. The Result of the Trust Game via oTree**
 
 My experience with oTree for conducting behavioral experiments has been both enlightening and challenging. While it offers flexibility and convenience, several pain points hinder its effectiveness in behavioral game theory research. In deploying the trust game using oTree, I encountered several difficulties reflective of broader challenges in behavioral game theory research. 
 One notable issue was the platform’s limited support for real-time interactions, hindering the dynamic nature of strategic interactions. It is found that participants were unable to engage in instantaneous exchanges, affecting the realism and validity of the experiment. This resonates with the findings of Guala and Mittone (2005), who stressed the importance of capturing real-time interactions to ensure the external validity of experimental results. During my experience with the trust game on oTree, I had a significant challenge regarding feedback and post-game understanding. Figure1 shows the process of the trust game via Otree and Figure 2 presents the results. Although I could access the game results after its conclusion as shown in `Figure 2`, I found myself uncertain about how to interpret the outcomes and lacked guidance on potential improvements to my strategies or behaviors within the game. This uncertainty not only diminished my sense of accomplishment and satisfaction from participating but also hindered my ability to learn from the experience and apply insights to future gameplay sessions. Without clear feedback and guidance on the implications of my actions, I felt disconnected from the game’s dynamics and struggled to really engage with the decision-making process of the trust game.
